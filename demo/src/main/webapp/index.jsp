@@ -15,7 +15,7 @@
     </head>
     <body>
         
-      <center>  <img style="height: 70px;width: 230px" src="images/logo_cloudplus.png" alt="IMG">
+      <center>  <img style="height: 68px;width: 230px" src="images/logo_cloudplus.png" alt="IMG">
         
      <h1>Demo page setup by Cloudplus on</h1>
      <h2 style="color: blueviolet">25 Apr, 2020</h2>
