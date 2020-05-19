@@ -18,7 +18,7 @@
       <center>  <img style="height: 65px;width: 230px" src="images/logo_cloudplus.png" alt="IMG">
         
      <h1>Demo page setup by Cloudplus on 19may2020</h1>
-     <h2 style="color: blueviolet">19 May 2020:10:21am</h2>
+     <h2 style="color: blueviolet">19 May 2020:11:19am</h2>
    </center>
     </body>
 </html>
