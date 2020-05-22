@@ -17,8 +17,8 @@
         
       <center>  <img style="height: 65px;width: 230px" src="images/logo_cloudplus.png" alt="IMG">
         
-     <h1>Demo for G10x, page setup by Cloudplus on 22may2020</h1>
-     <h2 style="color: blueviolet">22 May 2020:10.25am</h2>
+     <h1>Demo for i-10X, page setup by Cloudplus on 22may2020</h1>
+     <h2 style="color: blueviolet">22 May 2020:10.38am</h2>
    </center>
     </body>
 </html>
